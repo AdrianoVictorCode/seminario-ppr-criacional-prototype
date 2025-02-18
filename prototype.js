@@ -1,6 +1,3 @@
-/*
-
-*/
 
 // Classe base para itens de confeitaria
 class Pastry {
