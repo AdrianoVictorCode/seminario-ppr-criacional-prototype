@@ -65,8 +65,8 @@ PastryTool --> CloneablePastry : "Gerencia protótipos"
 ### Participantes
 
 - Prototype (Graphic) = (Pastry (declara o método clone()))
-ConcretePrototype (Staff, WholeNote, HalfNote) = Cake, Cupcake, Cookie (implementam clone())
-Client (GraphicTool) = PastryTool (armazena e cria cópias dos protótipos)
+- ConcretePrototype (Staff, WholeNote, HalfNote) = Cake, Cupcake, Cookie (implementam clone())
+- Client (GraphicTool) = PastryTool (armazena e cria cópias dos protótipos)
 
 
 ## Exemplo:
